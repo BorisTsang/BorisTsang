@@ -1,6 +1,7 @@
 # <img alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"/> Boris Tsang
 
 **`Hobbyist (Game Develop, Embeded Systems, Cyber Security)`**
+
 I'm a passionate hobbyist in game development and embedded systems, diving into the programming world since 2020. Born on June 22, 2007, I'm currently {{ (new Date().getFullYear()) - 2007 }} years old. I've created *Serendipity Chess* using Unity and am now exploring Rust to expand my skills. Welcome to my GitHub portfolio, where I share my projects and learning journey!
 
    <p align="left">
