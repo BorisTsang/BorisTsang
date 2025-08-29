@@ -2,7 +2,7 @@
 
 **`Hobbyist (Game Develop, Embeded Systems, Cyber Security)`**
 
-I'm a passionate hobbyist in game development and embedded systems, diving into the programming world since 2020. I've created *Serendipity Chess* using Unity and am now exploring Rust to expand my skills. Welcome to my GitHub portfolio, where I share my projects and learning journey!
+I'm a passionate hobbyist in game development and embedded systems, diving into the programming world since 2020. I've created a chess game using Unity and am now exploring Rust to expand my skills. Welcome to my GitHub portfolio, where I share my projects and learning journey!
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
