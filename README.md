@@ -31,10 +31,9 @@ I'm a passionate hobbyist in game development and embedded systems, diving into 
 #
 
 ### 📊 Stats
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=boristsang&amp;show_icons=true&amp;theme=default)
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisTsang&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boristsang&amp;theme=default)-->
 
 #
 <details>
