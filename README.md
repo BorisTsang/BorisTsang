@@ -2,7 +2,7 @@
 
 **`Hobbyist (Game Develop, Embeded Systems, Cyber Security)`**
 
-I'm a passionate hobbyist in game development and embedded systems, diving into the programming world since 2020. Born on June 22, 2007, I'm currently {{ (new Date().getFullYear()) - 2007 }} years old. I've created *Serendipity Chess* using Unity and am now exploring Rust to expand my skills. Welcome to my GitHub portfolio, where I share my projects and learning journey!
+I'm a passionate hobbyist in game development and embedded systems, diving into the programming world since 2020. I've created *Serendipity Chess* using Unity and am now exploring Rust to expand my skills. Welcome to my GitHub portfolio, where I share my projects and learning journey!
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
@@ -38,5 +38,5 @@ I'm a passionate hobbyist in game development and embedded systems, diving into 
 
 #
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Boris's Coding Journey</h3></summary>
    I started as a Scratch kid, instantly hooked on game development, but Scratch's limitations pushed me to Unity for more complex projects. While playing .io games, I wrote my own userscripts to learn JavaScript. My curiosity led me to Python through experimenting with a Raspberry Pi Pico. To prepare for Capture the Flag challenges, I picked up basic C and C++, and later turned to Rust for its powerful safety features, fueling my ongoing passion for coding.
