@@ -5,9 +5,9 @@
 I'm a passionate hobbyist in game development and embedded systems, diving into the programming world since 2020. I've created a chess game using Unity and am now exploring Rust to expand my skills. Welcome to my GitHub portfolio, where I share my projects and learning journey!
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/BorisTsang?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BorisTsang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/BorisTsang?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BorisTsang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
